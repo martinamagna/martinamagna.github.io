@@ -1,0 +1,46 @@
+.reveal {
+  background-color: white; 
+  font-family: 'Montserrat', sans-serif;
+}
+
+.reveal h1 {
+  font-family: 'Playfair Display', serif;
+  color: #9c4d4d;
+  font-size: 1.6em !important; 
+  margin-bottom: 0.5em;
+}
+
+.reveal h2 {
+  font-family: 'Playfair Display', serif;
+  color: #9c4d4d;
+  font-size: 1.3em !important;
+}
+
+.reveal h3 {
+  font-family: 'Playfair Display', serif;
+  color: #9c4d4d;
+  font-size: 1.1em !important;
+}
+
+.reveal p,
+.reveal li {
+  color: #555753;
+  font-size: 0.8em !important;
+  line-height: 1.45 !important;
+}
+
+.reveal img {
+  max-width: 90% !important; 
+  max-height: 55vh !important; 
+  display: block;
+  margin: 10px auto;
+  object-fit: contain;
+}
+
+.reveal code {
+  background-color: #f3f3f3 !important;
+  padding: 3px 6px !important;
+  border-radius: 4px !important;
+  font-size: 0.75em !important;
+}
+
